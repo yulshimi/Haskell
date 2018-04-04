@@ -1,3 +1,4 @@
+-- Name: Phillip Jo
 {-# OPTIONS_GHC -fwarn-incomplete-patterns #-}
 module Calculator where
 

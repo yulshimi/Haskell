@@ -1,3 +1,4 @@
+-- Name: Phillip Jo
 {-# LANGUAGE InstanceSigs #-}
 module TypeClasses where
 
